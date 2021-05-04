@@ -1,6 +1,11 @@
 # Flutter - Working with API 
 
-Working with API in different ways.
+Object oriented programming in flutter, dart.
+
+How to work with different custom (class) models.
+
+How to work with APIs in Flutter.
+
 
 #
 A new Flutter project.
